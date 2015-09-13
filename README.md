@@ -1,8 +1,6 @@
-# Casper
+# Magenta
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
-
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+Customized based on the default theme for [Ghost](http://github.com/tryghost/ghost/).
 
 ## Copyright & License
 
