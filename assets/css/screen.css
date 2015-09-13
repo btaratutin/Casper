@@ -1000,6 +1000,10 @@ body:not(.post-template) .post-title {
     white-space: nowrap;
 }
 
+.post-content img {
+   width: 100%; /* Default show images 100% wide */
+}
+
 .user-image {
     position: absolute;
     top: 0;
@@ -1889,13 +1893,6 @@ body:not(.post-template) .post-title {
 
     .post-template .site-footer {
         margin-top: 0;
-    }
-
-    .post-content img {
-        padding: 0;
-        width: calc(100% + 32px); /* expand with to image + margins */
-        min-width: 0;
-        max-width: 112%; /* fallback when calc doesn't work */
     }
 
     .post-meta {
